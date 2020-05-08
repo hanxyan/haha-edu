@@ -4,7 +4,7 @@ const resolve = dir => {
   return path.join(__dirname, dir)
 }
 
-let CUR_BASE_URL='';
+let CUR_BASE_URL='/haha-edu';
 
 module.exports = {
   outputDir: './dist',
