@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2240px" height="1600px" viewBox="0 0 2240 1600" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53 (72520) - https://sketchapp.com -->
+    <title>bg-gradient-mesh</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="54.5853392%" y1="53.050089%" x2="72.0152161%" y2="26.6555642%" id="linearGradient-1">
+            <stop stop-color="#2483D6" offset="0%"/>
+            <stop stop-color="#1265C6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="55.9100133%" y1="75.2603825%" x2="55.9100133%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#2483D6" offset="0%"/>
+            <stop stop-color="#1265C6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="55.9100133%" y1="75.2603825%" x2="55.9100133%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#2483D6" offset="0%"/>
+            <stop stop-color="#1265C6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-4">
+            <stop stop-color="#2484D6" offset="0%"/>
+            <stop stop-color="#207FD5" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="55.9100133%" y1="75.2603825%" x2="55.9100133%" y2="0%" id="linearGradient-5">
+            <stop stop-color="#2483D6" offset="0%"/>
+            <stop stop-color="#1265C6" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="68.8373939%" y1="33.2827273%" x2="75.9704416%" y2="71.9804324%" id="linearGradient-6">
+            <stop stop-color="#0F5BC1" offset="0%"/>
+            <stop stop-color="#2F8FDB" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="68.793271%" y1="23.0742829%" x2="75.9096109%" y2="85.4028384%" id="linearGradient-7">
+            <stop stop-color="#0F5BC1" offset="0%"/>
+            <stop stop-color="#2F8FDB" stop-opacity="0" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g id="bg-gradient-mesh" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Polygons" transform="translate(-140.000000, 0.000000)">
+            <polygon id="Path-17" stroke="#1E67D9" fill="#2886D8" fill-rule="nonzero" points="969.150654 758.276447 1457.58541 856.409921 1139.163 1028.40682"/>
+            <polygon id="Path-18" stroke="#1E67D9" fill="#2787D8" fill-rule="nonzero" points="1457.58541 856.409921 1140 1028 1492.81928 998.630462"/>
+            <polygon id="Path-18-Copy-2" stroke="#1E67D9" fill="#2585D7" fill-rule="nonzero" points="310 857.26034 -1.56237387e-16 933.930802 360.258887 1051.84428"/>
+            <polygon id="Path-19" stroke="#1E67D9" fill="#2787D8" fill-rule="nonzero" points="1730.3266 875.641333 1492.81928 998.630462 1458 856"/>
+            <polygon id="Path-19-Copy" stroke="#1E67D9" fill="url(#linearGradient-1)" fill-rule="nonzero" points="1824.63738 1104 1580.49943 1300.22775 1494.47512 998.630462"/>
+            <polygon id="Path-20" stroke="#1E67D9" fill="#2381D5" fill-rule="nonzero" points="1192.12767 609.366189 1458 856 969.150654 758.276447"/>
+            <path d="M1356.75949,369.92204 L1553.9423,666.689689 L1191.26444,609.736759 L1356.75949,369.92204 Z" id="Path-22" stroke="#1E67D9" fill="#2886D8" fill-rule="nonzero"/>
+            <polygon id="Path-23" stroke="#1E67D9" fill="#2787D8" fill-rule="nonzero" points="1691.16024 464.538895 1552.8966 666.01935 1356.75165 370.81372"/>
+            <polygon id="Path-25" stroke="#1E67D9" fill="#1A79D3" fill-rule="nonzero" points="1866.7033 216.864824 1691.16024 464.538895 1503.01185 194.485788"/>
+            <polygon id="Path-25-Copy" stroke="#1E67D9" fill="#2180D5" fill-rule="nonzero" points="2025.67863 0 1867 216.864824 1659.55625 0"/>
+            <polygon id="Path-26" stroke="#1E67D9" fill="#2584D6" fill-rule="nonzero" points="2025.67863 0 2232.16519 137.100622 1866.7033 216.864824"/>
+            <polygon id="Path-27" stroke="#1E67D9" fill="#2181D5" fill-rule="nonzero" points="2380 0 2232.16519 137.100622 2025.67863 1.33185734e-13 2173.45835 0"/>
+            <polygon id="Path-28" stroke="#1E67D9" fill="#1A77D1" fill-rule="nonzero" points="2380 194.485788 2232.16519 137.100622 2380 0"/>
+            <polygon id="Path-29" stroke="#1E67D9" fill="#1877D1" fill-rule="nonzero" points="2232 137 2380 394.6283 2380 194.485788"/>
+            <polygon id="Path-30" stroke="#1E67D9" fill="#217FD5" fill-rule="nonzero" points="2380 402.16389 2232.16519 609.850126 2395.36176 597.426365"/>
+            <polygon id="Path-31" stroke="#1E67D9" fill="#227ED5" fill-rule="nonzero" points="2232.16519 609.850126 2381.83777 800 2389.73345 599.073377"/>
+            <polygon id="Path-39" stroke="#1E67D9" fill="#2C8DDA" fill-rule="nonzero" points="1691.16024 464.538895 1930.32677 674.508549 1552.8966 666.01935"/>
+            <polygon id="Path-42" stroke="#1E67D9" fill="#2C8BDA" fill-rule="nonzero" points="2232 137.100622 2086.36111 354 1867 216.947368"/>
+            <polygon id="Path-40" stroke="#1E67D9" fill="#2D8CDA" fill-rule="nonzero" points="2086.36111 354 1691.16024 464.538895 1930.32677 674.508549"/>
+            <polygon id="Path-41" stroke="#1E67D9" fill="#2A89D9" fill-rule="nonzero" points="1866.7033 216.864824 2086.36111 354 1691.16024 464.538895"/>
+            <polygon id="Path-43" stroke="#1E67D9" fill="#1E7BD3" fill-rule="nonzero" points="2232 137 2381.83777 398.191761 2086.36111 354"/>
+            <polygon id="Path-44" stroke="#1E67D9" fill="#1572D0" fill-rule="nonzero" points="2086.36111 354 2381.83777 398.191761 2232 609.366189"/>
+            <polygon id="Path-48" stroke="#1E67D9" fill="#2482D6" fill-rule="nonzero" points="2232 609.850126 2381.83777 800 2002 841"/>
+            <polygon id="Path-33" stroke="#1E67D9" fill="#217FD5" fill-rule="nonzero" points="2002.15826 841 2210.33923 1011.70083 1824.63738 1104"/>
+            <polygon id="Path-49" stroke="#1E67D9" fill="#2683D6" fill-rule="nonzero" points="2002 841 2210.33923 1011.70083 2381.83777 800"/>
+            <polygon id="Path-21" stroke="#1E67D9" fill="#1B76D1" fill-rule="nonzero" points="1552.8966 666.01935 1458 856 1192.12767 609.366189"/>
+            <polygon id="Path-11" stroke="#1E67D9" fill="#2585D7" points="969.150654 758.276447 1140 1028 791.832177 1073.81149"/>
+            <polygon id="Path-53" stroke="#1E67D9" fill="#2F8FDB" points="948.451 279.535135 1192.12767 609.366189 858.200025 534.823663"/>
+            <polygon id="Path-54" stroke="#1E67D9" fill="#2A88D9" points="1356.75165 370.81372 1192.12767 609.366189 948.451 279.535135"/>
+            <polygon id="Path-55" stroke="#1E67D9" fill="#3392DD" points="1356.75165 370.81372 1503.01185 194.485788 1128.93557 206.373643"/>
+            <polygon id="Path-55-Copy" stroke="#1E67D9" fill="#2F8FDB" points="1503.01185 194.485788 1659.55625 -9.30769954e-14 1315.97371 -1.0927119e-13"/>
+            <polygon id="Path-56" stroke="#1E67D9" fill="#3192DC" points="1128.93557 206.373643 1356.75165 370.81372 948.451 279.535135"/>
+            <polygon id="Path-56-Copy" stroke="#1E67D9" fill="#2685D8" points="1316.40964 0 1503.01185 194.485788 1128.93557 206.373643"/>
+            <polygon id="Path-24" stroke="#1E67D9" fill="#207DD4" fill-rule="nonzero" points="1503.01185 195.485788 1691.16024 464.538895 1356.75165 370.81372"/>
+            <polygon id="Path-24-Copy" stroke="#1E67D9" fill="#2685D6" fill-rule="nonzero" points="1659.55625 0 1866.40859 217.053106 1503.01185 194.485788"/>
+            <polygon id="Path" stroke="#1E67D9" fill="#1874CF" points="2086.36111 354 2232.16519 609.850126 1930.32677 674.508549"/>
+            <polygon id="Path-2" stroke="#1E67D9" fill="#2785DB" points="1494.47512 998.630462 1580.49943 1300.22775 1322.44023 1190.78568"/>
+            <polygon id="Path-3" stroke="#1E67D9" fill="#2787D8" points="1824.63738 1104 1977.04911 1239.36147 1580.49943 1300.22775"/>
+            <polygon id="Path-3-Copy" stroke="#1E67D9" fill="#2584D6" points="1825 1104.29917 1977.41172 1239.66065 2210.66077 1012"/>
+            <polygon id="Path-4" stroke="#1E67D9" fill="#207FD5" points="1315.97371 -9.09494702e-13 1128.93557 206.373643 959.473562 -9.09494702e-13"/>
+            <polygon id="Path-4-Copy" stroke="#1E67D9" fill="#2786D8" points="959.473562 -9.09494702e-13 1128.93557 206.373643 781 126.73981"/>
+            <polygon id="Path-4-Copy-3" stroke="#1E67D9" fill="#2481D6" points="243.754355 -9.09494702e-13 433 195.485788 91 135.693168"/>
+            <polygon id="Path-4-Copy-6" stroke="#1E67D9" fill="#1E7CD4" points="243.754355 -8.52651283e-14 140 91.679075 140 -4.34985381e-13"/>
+            <polygon id="Path-4-Copy-4" stroke="#1E67D9" fill="#3092DC" points="243.754355 0 599.473562 0 433 195.485788"/>
+            <polygon id="Path-4-Copy-7" stroke="#1E67D9" fill="#2887D8" points="433 195 781 126.73981 599 398.833089"/>
+            <polygon id="Path-4-Copy-10" stroke="#1E67D9" fill="#2887D8" points="781 126.73981 948.451 279.535135 599.473562 398.833089"/>
+            <polygon id="Path-4-Copy-11" stroke="#1E67D9" fill="#2F8FDB" points="948.451 279.535135 858.200025 534.823663 599.473562 398.833089"/>
+            <polygon id="Path-4-Copy-12" stroke="#1E67D9" fill="#2E8FDB" points="598.977438 399 858.200025 534.823663 409.163795 556.105849"/>
+            <polygon id="Path-4-Copy-16" stroke="#1E67D9" fill="#2888D8" points="248 279.535135 409.163795 556.105849 91 609.366189"/>
+            <polygon id="Path-4-Copy-23" stroke="#1E67D9" fill="#207FD5" points="137.250208 293.375124 248 279.535135 126.788643 534.823663"/>
+            <polygon id="Path-4-Copy-17" stroke="#1E67D9" fill="#1B78D1" points="409.163795 556.105849 310 857.26034 91 609.366189"/>
+            <polygon id="Path-4-Copy-18" stroke="#1E67D9" fill="#1E7CD4" points="639.884955 887.967218 360.57329 1051.97664 310 857.26034"/>
+            <polygon id="Path-4-Copy-19" stroke="#1E67D9" fill="#1E7CD4" points="969.150654 758.276447 791.832177 1073.81149 639.884955 887.967218"/>
+            <polygon id="Path-4-Copy-20" stroke="#1E67D9" fill="#2080D5" points="1192.12767 609.366189 969.150654 758.276447 858.200025 534.823663"/>
+            <polygon id="Path-4-Copy-15" stroke="#1E67D9" fill="#2C8ADA" points="639.884955 887.967218 858.200025 534.823663 409.163795 556.105849"/>
+            <polygon id="Path-4-Copy-21" stroke="#1E67D9" fill="#1B78D1" points="310 857.26034 639.884955 887.967218 409.163795 556.105849"/>
+            <polygon id="Path-4-Copy-22" stroke="#1E67D9" fill="#2484D6" points="639.884955 887.967218 969.150654 758.276447 858.200025 534.823663"/>
+            <polygon id="Path-4-Copy-13" stroke="#1E67D9" fill="#2F8FDB" points="248 279.535135 599 399 409.163795 556.105849"/>
+            <polygon id="Path-4-Copy-5" stroke="#1E67D9" fill="#3090DC" points="599 -8.95419137e-15 959.473562 -9.09494702e-13 781 126.73981"/>
+            <polygon id="Path-4-Copy-9" stroke="#1E67D9" fill="#2887D8" points="781 126.73981 1128.93557 206.373643 948.451 279.535135"/>
+            <polygon id="Path-4-Copy-2" stroke="#1E67D9" fill="#3394DD" points="599.473562 -9.09494702e-13 781 126.73981 433 194.485788"/>
+            <polygon id="Path-5" stroke="#1E67D9" fill="#207ED5" points="1494.47512 998.630462 1322.44023 1190.78568 1140 1028.40682"/>
+            <polygon id="Path-5-Copy" stroke="#1E67D9" fill="#2C8ADA" points="1140 1028.40682 935.515142 1244.16712 792 1074.77636"/>
+            <polygon id="Path-6" stroke="#1E67D9" fill="#1A77D1" points="2381.83777 1204 2381.83777 1399.92969 2203.25391 1506"/>
+            <polygon id="Path-8-Copy-2" stroke="#0F58C7" fill="url(#linearGradient-2)" points="1484 1499.56711 1842.03906 1451.10547 1671.57422 1600"/>
+            <polygon id="Path-8-Copy-3" stroke="#0F58C7" fill="url(#linearGradient-3)" points="1842.03906 1451.10547 2203.25391 1506 2022.57422 1600"/>
+            <polygon id="Path-10" stroke="#1E67D9" fill="#2887D8" points="791.832177 1073.81149 935.515142 1244.16712 569.125 1280.39063"/>
+            <polygon id="Path-10-Copy-9" stroke="#1E67D9" fill="#2382D6" points="792 1073.81149 569.125 1280.39062 360.258887 1051.84428"/>
+            <polygon id="Path-10-Copy-7" stroke="#1E67D9" fill="#207FD5" points="569.125 1280.39063 768.679687 1489.54688 403.739356 1397"/>
+            <polygon id="Path-10-Copy-2" stroke="#1E67D9" points="403.739356 1397 610.117187 1613.50781 235.566406 1613.50781"/>
+            <polygon id="Path-10-Copy-3" stroke="#1E67D9" fill="#2281D6" points="1114.85156 1432.21094 1316.40964 1600 948 1613.50781"/>
+            <polygon id="Path-10-Copy-4" stroke="#0F58C7" fill="url(#linearGradient-4)" points="1484 1499.56711 1671.57422 1600 1316.40964 1600"/>
+            <polygon id="Path-10-Copy-5" stroke="#0F58C7" fill="url(#linearGradient-5)" points="1842.03906 1451.10547 2022.57422 1600 1671.57422 1600"/>
+            <polygon id="Path-10-Copy-6" stroke="#0F58C7" fill="#207DD4" points="2203.25391 1506 2382 1600 2022.64648 1600"/>
+            <polygon id="Path-12" stroke="#1E67D9" fill="#2483D6" points="1114.85156 1432.21094 1484 1499.56711 1316.40964 1600"/>
+            <polygon id="Path-13" stroke="#1E67D9" fill="#1C7AD3" points="768.679688 1489.54688 1114.85156 1432.21094 957.265625 1603"/>
+            <polygon id="Path-15" stroke="#1E67D9" fill="#1D7AD3" points="569.125 1280.39063 935.515142 1244.16712 768.679687 1489.54688"/>
+            <polygon id="Path-16" stroke="#1E67D9" fill="#2A88D9" points="140 666.01935 310 857.26034 133.742188 836.546875"/>
+            <polygon id="Path-37" stroke="#1E67D9" fill="#2E8FDB" points="140 836.226562 310 857.26034 140 900.179688"/>
+            <polygon id="Path-45" stroke="#1E67D9" fill="#2382D6" points="140 1300.22775 403.739356 1397 569.125 1280.39062"/>
+            <polygon id="Path-50" stroke="#1E67D9" fill="#2786D8" points="403.739356 1397 140 1454.55007 140 1300.22775"/>
+            <polygon id="Path-51" stroke="#1E67D9" fill="#2484D6" points="1139.163 1028.40682 1322.44023 1191 935.515142 1244.16712"/>
+            <polygon id="Path-52" stroke="#1E67D9" fill="#1872D0" points="140 180.71895 248 279.535135 140 293.190555"/>
+            <polygon id="Path-70" stroke="#1E67D9" fill="#1975D0" points="2203.25391 1506 2389.73345 1603 2382 1397"/>
+            <g id="Group-6" transform="translate(91.000000, 135.693168)" stroke="#0046B2">
+                <polygon id="Path-4-Copy-14" fill="#105BC1" points="157 143.841967 342 58.7926204 507.977438 263.306832"/>
+                <polygon id="Path-4-Copy-8" fill="#0F58BF" points="-2.84217094e-14 7.10542736e-14 342 58.7926204 157 143.841967"/>
+            </g>
+            <g id="Group-4" transform="translate(140.000000, 887.967218)" stroke="#165EB6">
+                <polygon id="Path-18-Copy" fill="#1468CA" fill-rule="nonzero" points="499.884955 -2.13162821e-13 220.57329 164.009419 651.832177 185.844277"/>
+                <polygon id="Path-10-Copy" fill="#1B79D3" points="220.258887 163.877059 429.125 392.423407 1.98951966e-13 412.260534"/>
+                <polygon id="Path-37-Copy" fill="#156DCB" points="1.46931327e-13 92.9221386 220.57329 164.009419 1.33921782e-13 412.260534"/>
+            </g>
+            <g id="Group-2" transform="translate(768.679687, 800.000000)" stroke="#205297">
+                <polygon id="Path-32" fill="#176DCC" fill-rule="nonzero" points="1611.32031 7.10542736e-14 1441.65954 211.700827 1611.32031 198.630462"/>
+                <polygon id="Path-32-Copy-2" fill="#1669C5" fill-rule="nonzero" points="1611.32031 198.630462 1441.65954 212 1611.32031 404"/>
+                <polygon id="Path-32-Copy" fill="#166BCB" fill-rule="nonzero" points="1441.98108 212 1208.36942 439.361472 1621.05376 403.367173"/>
+                <polygon id="Path-32-Copy-3" fill="#1161C5" fill-rule="nonzero" points="1613.15808 404 1208.73204 439.660645 1434.57422 706"/>
+                <polygon id="Path-5-Copy-2" fill="#105FC3" points="553.320313 391 346.171875 632.210938 166.835455 444.167119"/>
+                <polygon id="Path-7" fill="#1160C4" points="1208.36942 439.361472 1434.57422 706 1073.35938 651.105469"/>
+                <polygon id="Path-8" fill="#1059C0" points="811.819743 500.227751 1208.36942 439.660645 1073.35938 651.105469"/>
+                <polygon id="Path-8-Copy" fill="#1164C5" points="553.760543 390.785683 811.819743 500.227751 715.808594 700.816406"/>
+                <polygon id="Path-8-Copy-4" fill="#1469CA" points="553.320312 390.785683 715.320313 699.567106 346.171875 632.210938"/>
+                <polygon id="Path-8-Copy-5" fill="#0F54B1" points="811.819743 500.227751 1073.35937 651.105469 715.320312 699.567106"/>
+                <polygon id="Path-9" fill="#1163C5" points="166.835455 444.167119 346.171875 632.210938 0 689.546875"/>
+            </g>
+            <g id="Group" transform="translate(1458.000000, 609.850126)" fill-rule="nonzero" stroke="#0050B1">
+                <polygon id="Path-36" fill="#1770CE" points="94.8965959 56.1692242 272.326603 265.791207 -2.84217094e-14 246.559795"/>
+                <polygon id="Path-34" fill="#115FC4" points="272.326603 266.149874 366.637382 494.149874 36.475125 388.780336"/>
+                <polygon id="Path-35" fill="#105EC4" points="272.326603 265.791207 544 231.149874 366.637382 494.149874"/>
+                <polygon id="Path-38" fill="#1B78D1" points="94.8965959 56.1692242 471 65.6740124 272.326603 265.791207"/>
+                <polygon id="Path-46" fill="#115FC4" points="472.326769 64.658423 774.165193 -2.13162821e-13 544 231.149874"/>
+                <polygon id="Path-47" fill="#1161C5" points="544 231.149874 273 266.149874 472.326769 64.658423"/>
+            </g>
+            <g id="Group-5" transform="translate(90.000000, 279.000000)" opacity="0.631184896">
+                <polygon id="Path-4-Copy-24" fill="url(#linearGradient-6)" points="158 0 509 119.464865 319.163795 276.570714"/>
+                <polygon id="Path-4-Copy-25" fill="url(#linearGradient-7)" points="159.286645 0.535135162 319.163795 276.570714 -3.47210434e-14 320.073377"/>
+            </g>
+            <g id="Group-3" transform="translate(140.000000, 1397.000000)" stroke="#115EC3">
+                <polygon id="Path-10-Copy-8" fill="#1468C9" points="628.679688 92.546875 460.949219 206 263.739356 -1.56402669e-14"/>
+                <polygon id="Path-14" fill="#0F60C4" points="628.679688 92.546875 460.949219 203 817.265625 206"/>
+                <polygon id="Path-67" fill="#1265C6" points="263.739356 0 105.982227 203 2.84217094e-14 163.939731 2.84217094e-14 57.5500712"/>
+                <polygon id="Path-68" fill="#1670CE" points="263.739356 0 457.29289 203 105.982227 203"/>
+                <polygon id="Path-69" fill="#0F59BF" points="7.10542736e-15 163.939731 105.982227 203 6.39488462e-14 203"/>
+            </g>
+        </g>
+    </g>
+</svg>

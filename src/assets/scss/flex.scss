@@ -1,0 +1,42 @@
+//container-class
+.flex-base {
+	display:flex;
+}
+
+//flex-row-column
+.flex-btw-center {
+  @include flex-base;
+  justify-content:space-between;
+}
+
+.flex-spa-center {
+  @include flex-base;
+  justify-content:space-around;
+}
+
+.flex-start-center {
+  @include flex-base;
+}
+
+//flex-dir-row-col
+.flex-col-stre-start{
+	@include flex-column-base;
+}
+
+
+
+//child-class
+.c-flex-1{flex:1;}
+.c-flex-2{flex:2}
+
+.padding-30{padding:30px;}
+
+.mgr-20{margin-right:20px;}
+
+.default-wrap{
+	@include flex-column-base;
+
+	.defalut-header{
+		height:500px;
+	}
+}

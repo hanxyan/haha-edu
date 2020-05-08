@@ -1,0 +1,21 @@
+@mixin flex-base {
+  display:flex;
+  align-items:center;
+}
+
+@mixin flex-cet-cet {
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+//flex-rowcenter-columnstrech
+@mixin flex-rc-cs {
+  display:flex;
+  justify-content:center;
+}
+
+@mixin flex-column-base {
+  display:flex;
+  flex-direction:column;
+}
